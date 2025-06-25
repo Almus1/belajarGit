@@ -1,5 +1,5 @@
-# - belajarGit
-# - nyoba2 gitHub
+#- belajarGit
+#- nyoba2 gitHub
 
 ## daftar file penting
 
