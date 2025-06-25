@@ -3,5 +3,5 @@
 
 ## daftar file penting
 
-- [filePertama.md]
-- [catatanBranch.md]
+- [filePertama.md] (filePertama.md)
+- [catatanBranch.md] (catatanBranch.md)
