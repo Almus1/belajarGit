@@ -1,1 +1,1 @@
-# belajaraGit
+# belajarGit
